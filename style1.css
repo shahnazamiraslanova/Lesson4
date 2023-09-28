@@ -1,0 +1,42 @@
+body{
+    background-color: aliceblue;
+
+}
+#card{
+    width: 300px;
+    margin: 100px auto;
+    background-color: white;
+    padding: 10px;
+
+}
+
+#back{
+    position: relative;
+    height: 300px;
+    background: url(https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200) center/cover;
+}
+
+#bir{
+    position: absolute;
+  top: 20px;
+  left:10px;
+}
+#iki{
+    position: absolute;
+  top: 20px;
+  right: 10px;
+}
+button{
+    position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 1px;
+}
+#uch{
+    position: absolute;
+bottom: 20px;
+  right: 10px;
+}
